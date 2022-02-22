@@ -1,0 +1,41 @@
+[
+    {
+        "name" : "LA Park",
+        "address" : "21, Crescent Sreent LA ",
+        "image" : ["public_space.jpg"]
+    },
+
+        {
+            "name" : "Ross Road",
+            "address" : "21, Ross Sreent LA ",
+            "image" : "public_space5.jpg"
+        },
+
+        {
+            "name" : "Kings Park",
+            "address" : "47, Kings Sreent LA ",
+            "image" : "public_space4.jpg"
+        },
+
+        {
+            "name" : "Baywatch Park",
+            "address" : "19, Baywatch Sreent LA ",
+            "image" : "public_space3.jpg"
+        },
+
+        {
+            "name" : "Coolingstone Park",
+            "address" : "58, Coolingstone Sreent LA ",
+            "image" : "public_space4.jpg"
+        },
+
+        {
+            "name" : "Houston Park",
+            "address" : "1, Houston Sreent LA ",
+            "image" : "public_space5.jpg"
+        }
+
+       
+        
+    
+]
